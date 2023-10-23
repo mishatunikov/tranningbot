@@ -3,7 +3,7 @@ from aiogram.types import ContentType, Message
 from aiogram.filters import Command, CommandStart
 from random import randint
 
-# bot game
+# bot guess num
 BOT_TOKEN = ''
 bot = Bot(BOT_TOKEN)
 dp = Dispatcher()
